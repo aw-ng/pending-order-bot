@@ -1,5 +1,5 @@
 {
-  "name": "badasswp/pending-order-bot",
+  "name": "aw-ng/pending-order-bot",
   "description": "Send reminders on WooCommerce pending orders.",
   "type": "wordpress-plugin",
   "license": "GPL-2.0-or-later",
